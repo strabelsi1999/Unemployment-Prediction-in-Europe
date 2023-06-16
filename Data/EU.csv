@@ -1,0 +1,89 @@
+               Flag            Name Accession     Capital  Population[2]  \
+0               NaN         Austria      1995      Vienna        8926000   
+1               NaN         Belgium       NaN    Brussels       11566041   
+2               NaN        Bulgaria      2007       Sofia        6916548   
+3               NaN         Croatia      2013      Zagreb        4036355   
+4               NaN       Cyprus[a]      2004     Nicosia         896000   
+5               NaN  Czech Republic      2004      Prague       10574153   
+6               NaN      Denmark[d]      1973  Copenhagen        5833883   
+7               NaN         Estonia      2004     Tallinn        1330068   
+8               NaN      Finland[e]      1995    Helsinki        5527493   
+9               NaN       France[f]       NaN       Paris       67439614   
+10              NaN         Germany       [g]      Berlin       83120520   
+11              NaN          Greece      1981      Athens       10682547   
+12              NaN         Hungary      2004    Budapest        9730772   
+13              NaN         Ireland      1973      Dublin        5006324   
+14              NaN           Italy       NaN        Rome       59862348   
+15              NaN          Latvia      2004        Riga        1893223   
+16              NaN       Lithuania      2004     Vilnius        2795680   
+17              NaN      Luxembourg       NaN  Luxembourg         633347   
+18              NaN           Malta      2004    Valletta         516100   
+19              NaN  Netherlands[i]       NaN   Amsterdam       17614840   
+20              NaN          Poland      2004      Warsaw       37840001   
+21              NaN     Portugal[k]      1986      Lisbon  10,298,252[8]   
+22              NaN         Romania      2007   Bucharest       19186201   
+23              NaN        Slovakia      2004  Bratislava        5459781   
+24              NaN        Slovenia      2004   Ljubljana        2108977   
+25              NaN        Spain[m]      1986      Madrid       47394223   
+26              NaN          Sweden      1995   Stockholm       10370000   
+27  Totals/Averages               —         —           —      447562291   
+
+    Area (km²)  GDP(US$ M)  GDP (PPP)per cap.[3][4] Currency     Gini[5]  \
+0        83855      447718                    55406     euro        29.1   
+1        30528      517609                    50114     euro        33.0   
+2       110994       66250                    23741      lev        29.2   
+3        56594       60702                    27681     euro          29   
+4         9251       24280                    39079     euro        31.2   
+5        78866      246953                    40293   koruna        25.8   
+6        43075      347176                    57781    krone        24.7   
+7        45227       31038                    37033     euro        36.0   
+8       338424      269654                    49334     euro        26.9   
+9   632,833[7]     2707074                    45454     euro        32.7   
+10      357386     3863344                    53571     euro        31.9   
+11      131990      214012                    29045     euro        34.3   
+12       93030      170407                    32434   forint        30.0   
+13       70273      384940                    89383     euro        34.3   
+14      301338     1988636                    40065     euro        36.0   
+15       64589       35045                    30579     euro        35.7   
+16       65200       53641                    38605     euro        35.8   
+17      2586.4       69453                   112875     euro        30.8   
+18         316       14859                    43086     euro        25.8   
+19       41543      902355                    57101     euro        30.9   
+20      312685      565854                    33739    złoty        34.9   
+21   92,212[9]      236408                    33131     euro    32.1[10]   
+22      238391      243698                    30141      leu        31.5   
+23       49035      106552                    32184     euro        25.8   
+24       20273       54154                    38506     euro        31.2   
+25      504030     1397870                    38143     euro        32.0   
+26      449964      528929                    52477    krona        25.0   
+27   4224488.4    15687843                    35083        —  (avg) 30.8   
+
+         HDI[6]  MEPs                               Languages  
+0         0.922    19                                  German  
+1         0.931    21                       DutchFrenchGerman  
+2         0.816    17                               Bulgarian  
+3         0.851    12                                Croatian  
+4         0.887     6                         GreekTurkish[b]  
+5         0.900    21                                Czech[c]  
+6         0.940    14                                  Danish  
+7         0.892     7                                Estonian  
+8         0.938    14                          FinnishSwedish  
+9         0.901    79                                  French  
+10        0.947    96                                  German  
+11        0.888    21                                   Greek  
+12        0.854    21                               Hungarian  
+13        0.955    13                            EnglishIrish  
+14        0.892    76                                 Italian  
+15        0.866     8                                 Latvian  
+16        0.882    11                              Lithuanian  
+17        0.916     6            FrenchGermanLuxembourgish[h]  
+18        0.895     6                          MalteseEnglish  
+19        0.944    29                         DutchFrisian[j]  
+20        0.880    52                                  Polish  
+21        0.864    21                           Portuguese[l]  
+22        0.828    33                                Romanian  
+23        0.860    14                                  Slovak  
+24        0.917     8                                 Slovene  
+25        0.904    59  SpanishGalicianCatalanOccitanBasque[n]  
+26        0.945    21                                 Swedish  
+27  (avg) 0.897   705                                       —  
